@@ -8,4 +8,4 @@
 
 左侧为参考图二，右图为生成效果
 
-<img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/熏儿参考图.jpg" width="400"><img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/ebf5d7a42170ffc18950dd275a309e4a.jpg" width="550">
+<img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/熏儿参考图.jpg" width="400"><img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/ebf5d7a42170ffc18950dd275a309e4a.jpg" width="520">
