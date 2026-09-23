@@ -7,4 +7,5 @@
 夜晚古城城楼背景，暖黄色古建筑灯光，雨后湿漉漉反光石板路面，背景虚化行人，夜景氛围感，手机前置自拍视角，浅景深，柔和冷暖光影，真实细腻皮肤质感，胶片颗粒，高清，8k，半身人像
 
 左侧为参考图二，右图为生成效果
-<img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/熏儿参考图.jpg" width="400"><img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/ebf5d7a42170ffc18950dd275a309e4a.jpg" width="500">
+
+<img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/熏儿参考图.jpg" width="400"><img src="https://raw.githubusercontent.com/LatentSeeker/-/main/images/ebf5d7a42170ffc18950dd275a309e4a.jpg" width="550">
